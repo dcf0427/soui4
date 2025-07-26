@@ -27,7 +27,7 @@ jobs:
             dist: ubuntu-latest
           - os: Linux
             arch: arm64
-            dist: ubuntu-22.04-arm
+            dist: ubuntu-24.04-arm64
           - os: Windows
             arch: x86
             platform: Win32
